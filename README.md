@@ -6,7 +6,7 @@
 A simple app for buildung yung's diagrams and counting numbers of combinations made 
 with **streamlit** framework 
   
-![image](https://github.com/b0b3r-kurwa/yungs_diagrams/images/img.png)
+![image]([https://github.com/b0b3r-kurwa/yungs_diagrams/images/img.png](https://github.com/b0b3r-kurwa/yungs_diagrams/blob/main/image/img.png))
 ## Features
 ***
 - Real-time parameter adjustments
